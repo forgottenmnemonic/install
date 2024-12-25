@@ -1,0 +1,8 @@
+gimp
+asciiquarium
+neofetch
+neovim
+lsd
+ntfs-3g
+signal-desktop
+github-cli

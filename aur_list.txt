@@ -1,0 +1,9 @@
+cbonsai
+cava
+catppuccin-gtk-theme-macchiato
+simplenote-electron-bin
+spotify-dev
+cava
+cbonsai
+shell-color-scripts
+gnome-browser-connector
